@@ -1,4 +1,4 @@
-# 01 \| delete 0：JavaScript中到底有什么是可以销毁的<audio id="audio" controls="" preload="none"><source id="mp3" src="https://res001.geekbang.org//media/audio/86/f5/866ed6d1256f70b5727bea4313c145f5/ld/ld.m3u8"></audio>
+# 01 \| delete 0：JavaScript中到底有什么是可以销毁的
 
 
 
@@ -208,6 +208,7 @@ obj.x()
 - delete object.x中，如果x是只读的，会发生什么？
 
 <!-- -->
+<audio id="audio" controls="" preload="none"><source id="mp3" src="https://res001.geekbang.org//media/audio/86/f5/866ed6d1256f70b5727bea4313c145f5/ld/ld.m3u8"></audio>
 
 希望你喜欢我的分享。
 
